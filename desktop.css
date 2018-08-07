@@ -1,0 +1,114 @@
+.dropdown{
+    display:none;
+}
+header{
+    height:80px;
+    justify-content: space-around;
+    width:100%;
+    
+	position: fixed;
+    top:0;
+    z-index:10
+    
+}
+.logo{
+
+    width:47px;
+    height:50px
+}
+
+
+main{
+    width:75%;
+    margin: auto;
+}
+
+.about{
+    
+
+    padding:30px 80px;
+   
+    line-height: 1.7em;
+}
+.about-content{
+    justify-content: space-between;
+position: relative;
+ 
+}
+
+.about-title{
+    text-align: left;
+    	
+	width:100%;
+}
+
+.about-desc{
+	
+width:600px;
+text-indent: -35px;
+text-align: left;
+
+
+
+}
+.img-title{
+
+    font-size:20px;
+    font-weight: 100;
+  
+    }
+
+    .image-container{
+        width:208px;
+    align-items: center;
+    height:208px;
+   position: absolute;
+   right:0 
+    }
+
+.my-img{
+    width:200px;
+     height:200px;
+   
+}
+
+.hr-content{
+
+    width:70%;
+ margin: 0;
+ padding: 0;
+
+}
+
+.about-hr{
+
+    width:100%;
+    
+  
+}
+
+
+.portfolio{
+    padding: 5% 60px 45px 80px;
+
+}
+
+.section-title{
+    flex-flow: row wrap;
+justify-content: space-between;
+}
+.title-bar{
+    width: 75%;
+}
+    .port-img{
+        
+        height:175px;
+        margin: 30px 11px ;
+        
+    }
+    .form-input{
+        width:390px;}
+
+        footer{
+            width:100%;
+        }

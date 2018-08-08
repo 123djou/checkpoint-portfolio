@@ -1,2 +1,2 @@
-# checkpoint-portfolio
-# checkpoint-portfolio
+# checkpoint css : responsive portfolio
+
